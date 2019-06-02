@@ -1,0 +1,11 @@
+{
+  "name": "iliakologrivov/test",
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    },
+    "files": [
+      "App/helpers.php"
+    ]
+  }
+}
